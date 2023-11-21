@@ -1090,3 +1090,9 @@ h6,
 }
  
 
+.centered-frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
