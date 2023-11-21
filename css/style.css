@@ -1216,7 +1216,7 @@ svg:hover .tooltip {
 .card {
  width: 190px;
  height: 254px;
- margin: 0 auto;
+ margin-top: 10px;
  background-color: #F8FBFE;
  border-radius: 8px;
  z-index: 1;
